@@ -36,6 +36,17 @@ public class HelloWorld {
     // define a decimal number
     // add f at end for floating value
     float price = 3.99f;
+
+    Console.WriteLine(hugeNumber + price);
+
+
+
+    // there is also type coersion to output a string
+    Console.WriteLine("result is: " + hugeNumber);
+
+
+
+
   }
 }
 
