@@ -46,7 +46,20 @@ public class HelloWorld {
 
 
 
+    // redefining a variable
+    // just omit the data type
+    hugeNumber = 1000;
+    Console.WriteLine(hugeNumber);
 
+
+
+    // shorthand for changing variable based off original value of variable
+    // hugeNumber = hugeNumber + 10;
+    hugeNumber += 10;
+    // can also use -= , *=, /=
+
+    Console.WriteLine(hugeNumber);
+    
   }
 }
 
