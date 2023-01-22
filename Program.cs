@@ -9,11 +9,18 @@
 
 
 
+
+
 using System;
 
 // here we create a class called HelloWorld
 public class HelloWorld {
   
+  // here we create a variable inside the class
+  static int classNumber = 1;
+
+
+
   // here we create a method inside the class 
   public static void Main(string[] args) {
     // Console is itself a built-in class and WriteLine is a built-in method for that class
@@ -60,6 +67,36 @@ public class HelloWorld {
 
     Console.WriteLine(hugeNumber);
     
+
+
+    /*
+    multi
+    line
+    comment
+    just
+    like
+    javascript
+    */
+
+
+
+    // scope in C# is basically the exact same as in javascript, variables are available down the scope chain, but not across the scope chain from sibling methods/codeblocks, and also not available from up the scope chain
+    // just like javascript, C# looks in the current scope for the variable in question, if it can't find it, it goes up one level in the scope chain, if it can't find it there, it keeps going until it finds it
+
+
+
+    // implicit vs explicit use of primitive datatypes
+    // all the datatypes you've used so far are primitives
+
+    // explicit (you tell C# what data type it is)
+    string name = "Ishan";
+    char letter = "e";
+    int negativeNumber = -4;
+    bool toggle = false;
+
+    // implicit (C# automatically comes up with data type for you)
+    var userName2 = "Hugh"; // if you hover over the word var, it will tell you the data type C# decided on
+
   }
 }
 
