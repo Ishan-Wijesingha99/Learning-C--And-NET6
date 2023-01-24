@@ -36,7 +36,14 @@ namespace MethodPractise {
 
       Console.WriteLine(Add(3, 10));
       Console.WriteLine(Multiply(2, 7));
+      Console.WriteLine(Divide(20, 4));
+
+      ReadUserInput();
+
+      Console.WriteLine(AddInTerminal());
     }
+
+
 
     // add static to the WriteSomething() method so it can be called inside of Main()
     public static void WriteSomething() {
@@ -57,6 +64,35 @@ namespace MethodPractise {
 
     public static int Multiply(int num1, int num2) {
       return num1 * num2;
+    }
+
+    public static double Divide(double num1, double num2) {
+      return num1 / num2;
+    }
+
+
+
+    // creating a method that uses user input from the command line
+    public static void ReadUserInput() {
+      // this line stores what is written in the command prompt as a variable
+      string input = Console.ReadLine();
+      // this line prints it to the console
+      Console.WriteLine(input);
+    }
+
+    // add two numbers the user types into the terminal
+    public static int AddInTerminal() {
+      Console.WriteLine("Please write the first number");
+      string num1String = Console.ReadLine();
+
+      Console.WriteLine("Please write the second number");
+      string num2String = Console.ReadLine();
+
+      // the two numbers are stored as strings, so we need to convert them to numbers
+      int num1 = int.Parse(num1String);
+      int num2 = int.Parse(num2String);
+
+      return num1 + num2;
     }
   }
 
