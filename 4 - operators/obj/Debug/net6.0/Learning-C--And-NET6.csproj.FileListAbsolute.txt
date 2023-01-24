@@ -1,0 +1,60 @@
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\bin\Debug\net6.0\Learning-C--And-NET6.exe
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\bin\Debug\net6.0\Learning-C--And-NET6.deps.json
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\bin\Debug\net6.0\Learning-C--And-NET6.runtimeconfig.json
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\bin\Debug\net6.0\Learning-C--And-NET6.dll
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\bin\Debug\net6.0\Learning-C--And-NET6.pdb
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\obj\Debug\net6.0\Learning-C--And-NET6.csproj.AssemblyReference.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\obj\Debug\net6.0\Learning-C--And-NET6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\obj\Debug\net6.0\Learning-C--And-NET6.AssemblyInfoInputs.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\obj\Debug\net6.0\Learning-C--And-NET6.AssemblyInfo.cs
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\obj\Debug\net6.0\Learning-C--And-NET6.csproj.CoreCompileInputs.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\obj\Debug\net6.0\Learning-C--And-NET6.dll
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\obj\Debug\net6.0\refint\Learning-C--And-NET6.dll
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\obj\Debug\net6.0\Learning-C--And-NET6.pdb
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\obj\Debug\net6.0\Learning-C--And-NET6.genruntimeconfig.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\obj\Debug\net6.0\ref\Learning-C--And-NET6.dll
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\1- basics\obj\Debug\net6.0\Learning-C--And-NET6.csproj.AssemblyReference.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\1- basics\obj\Debug\net6.0\Learning-C--And-NET6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\1- basics\obj\Debug\net6.0\Learning-C--And-NET6.AssemblyInfoInputs.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\1- basics\obj\Debug\net6.0\Learning-C--And-NET6.AssemblyInfo.cs
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\1- basics\obj\Debug\net6.0\Learning-C--And-NET6.csproj.CoreCompileInputs.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\1- basics\obj\Debug\net6.0\Learning-C--And-NET6.dll
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\1- basics\obj\Debug\net6.0\refint\Learning-C--And-NET6.dll
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\1- basics\obj\Debug\net6.0\Learning-C--And-NET6.pdb
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\1- basics\bin\Debug\net6.0\Learning-C--And-NET6.exe
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\1- basics\bin\Debug\net6.0\Learning-C--And-NET6.deps.json
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\1- basics\bin\Debug\net6.0\Learning-C--And-NET6.runtimeconfig.json
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\1- basics\bin\Debug\net6.0\Learning-C--And-NET6.dll
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\1- basics\bin\Debug\net6.0\Learning-C--And-NET6.pdb
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\1- basics\obj\Debug\net6.0\Learning-C--And-NET6.genruntimeconfig.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C--And-NET6\1- basics\obj\Debug\net6.0\ref\Learning-C--And-NET6.dll
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\2 - methods\bin\Debug\net6.0\Learning-C--And-NET6.exe
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\2 - methods\bin\Debug\net6.0\Learning-C--And-NET6.deps.json
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\2 - methods\bin\Debug\net6.0\Learning-C--And-NET6.runtimeconfig.json
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\2 - methods\bin\Debug\net6.0\Learning-C--And-NET6.dll
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\2 - methods\bin\Debug\net6.0\Learning-C--And-NET6.pdb
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\2 - methods\obj\Debug\net6.0\Learning-C--And-NET6.csproj.AssemblyReference.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\2 - methods\obj\Debug\net6.0\Learning-C--And-NET6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\2 - methods\obj\Debug\net6.0\Learning-C--And-NET6.AssemblyInfoInputs.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\2 - methods\obj\Debug\net6.0\Learning-C--And-NET6.AssemblyInfo.cs
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\2 - methods\obj\Debug\net6.0\Learning-C--And-NET6.csproj.CoreCompileInputs.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\2 - methods\obj\Debug\net6.0\Learning-C--And-NET6.dll
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\2 - methods\obj\Debug\net6.0\refint\Learning-C--And-NET6.dll
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\2 - methods\obj\Debug\net6.0\Learning-C--And-NET6.pdb
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\2 - methods\obj\Debug\net6.0\Learning-C--And-NET6.genruntimeconfig.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\2 - methods\obj\Debug\net6.0\ref\Learning-C--And-NET6.dll
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\3 - catching errors\obj\Debug\net6.0\Learning-C--And-NET6.csproj.AssemblyReference.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\3 - catching errors\obj\Debug\net6.0\Learning-C--And-NET6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\3 - catching errors\obj\Debug\net6.0\Learning-C--And-NET6.AssemblyInfoInputs.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\3 - catching errors\obj\Debug\net6.0\Learning-C--And-NET6.AssemblyInfo.cs
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\3 - catching errors\obj\Debug\net6.0\Learning-C--And-NET6.csproj.CoreCompileInputs.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\3 - catching errors\obj\Debug\net6.0\Learning-C--And-NET6.dll
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\3 - catching errors\obj\Debug\net6.0\refint\Learning-C--And-NET6.dll
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\3 - catching errors\obj\Debug\net6.0\Learning-C--And-NET6.pdb
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\3 - catching errors\bin\Debug\net6.0\Learning-C--And-NET6.exe
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\3 - catching errors\bin\Debug\net6.0\Learning-C--And-NET6.deps.json
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\3 - catching errors\bin\Debug\net6.0\Learning-C--And-NET6.runtimeconfig.json
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\3 - catching errors\bin\Debug\net6.0\Learning-C--And-NET6.dll
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\3 - catching errors\bin\Debug\net6.0\Learning-C--And-NET6.pdb
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\3 - catching errors\obj\Debug\net6.0\Learning-C--And-NET6.genruntimeconfig.cache
+C:\Users\Ishan\Desktop\C# NET 6\Learning-C#-And-NET6\3 - catching errors\obj\Debug\net6.0\ref\Learning-C--And-NET6.dll
