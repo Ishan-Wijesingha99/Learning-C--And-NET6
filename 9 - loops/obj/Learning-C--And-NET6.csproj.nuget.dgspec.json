@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ishan\\Desktop\\C# NET 6\\Learning-C#-And-NET6\\8 - ternary operator\\Learning-C--And-NET6.csproj": {}
+    "C:\\Users\\Ishan\\Desktop\\C# NET 6\\Learning-C#-And-NET6\\9 - loops\\Learning-C--And-NET6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ishan\\Desktop\\C# NET 6\\Learning-C#-And-NET6\\8 - ternary operator\\Learning-C--And-NET6.csproj": {
+    "C:\\Users\\Ishan\\Desktop\\C# NET 6\\Learning-C#-And-NET6\\9 - loops\\Learning-C--And-NET6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ishan\\Desktop\\C# NET 6\\Learning-C#-And-NET6\\8 - ternary operator\\Learning-C--And-NET6.csproj",
+        "projectUniqueName": "C:\\Users\\Ishan\\Desktop\\C# NET 6\\Learning-C#-And-NET6\\9 - loops\\Learning-C--And-NET6.csproj",
         "projectName": "Learning-C--And-NET6",
-        "projectPath": "C:\\Users\\Ishan\\Desktop\\C# NET 6\\Learning-C#-And-NET6\\8 - ternary operator\\Learning-C--And-NET6.csproj",
+        "projectPath": "C:\\Users\\Ishan\\Desktop\\C# NET 6\\Learning-C#-And-NET6\\9 - loops\\Learning-C--And-NET6.csproj",
         "packagesPath": "C:\\Users\\Ishan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ishan\\Desktop\\C# NET 6\\Learning-C#-And-NET6\\8 - ternary operator\\obj\\",
+        "outputPath": "C:\\Users\\Ishan\\Desktop\\C# NET 6\\Learning-C#-And-NET6\\9 - loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ishan\\AppData\\Roaming\\NuGet\\NuGet.Config"
