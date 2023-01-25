@@ -56,6 +56,12 @@ namespace Operators {
       // there is also only one unequal operator
       System.Console.WriteLine(num3 != num4); // true
 
+
+
+      // comparing strings
+      string firstName = "Ishan";
+      // use Equals()
+      System.Console.WriteLine(firstName.Equals("Yeet")); // false
       
 
       // conditional operators
