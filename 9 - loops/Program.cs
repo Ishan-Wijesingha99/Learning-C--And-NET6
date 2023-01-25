@@ -27,8 +27,14 @@ namespace Loops {
       // while-loop
       // literally the same as javascript
       // checks to see if condition is met, if it is, codeblock is executed, this repeats
-      
+      int whileLoopCounter = 0;
 
+      while(whileLoopCounter < 18) {
+        System.Console.WriteLine(whileLoopCounter);
+        whileLoopCounter++;
+      }
+
+      System.Console.WriteLine("While-loop completed");
 
 
       // do-while loop
@@ -42,6 +48,26 @@ namespace Loops {
       } while(counter < 6);
 
       System.Console.WriteLine("do-while loop completed");
+
+
+
+      // execute challenge function
+      ChallengeFunction();
+    }
+
+    // create function that increments counter by 1 and prints result to the console when the user clicks enter 
+    public static void ChallengeFunction() {
+      int counter = 0;
+
+      while(counter < 21) {
+        System.Console.WriteLine("Please press enter to increment count by 1");
+        string userInput = Console.ReadLine();
+
+        if(userInput.Equals("")) {
+          counter++;
+          System.Console.WriteLine(counter);
+        }
+      }
     }
 
   }
