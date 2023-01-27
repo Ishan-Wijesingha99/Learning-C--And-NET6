@@ -53,6 +53,9 @@ namespace Loops {
 
       // execute challenge function
       ChallengeFunction();
+
+      // execute BreakAndContinue function
+      BreakAndContinue();
     }
 
     // create function that increments counter by 1 and prints result to the console when the user clicks enter 
@@ -70,6 +73,33 @@ namespace Loops {
       }
     }
 
+    
+
+    // break and continue in loops
+    public static void BreakAndContinue() {
+      
+      for(int i=0; i<10; i++) {
+
+        if(i == 6) {
+          // this will stop the loop completely
+          break;
+        }
+
+        System.Console.WriteLine(i);
+      }
+
+      for(int i=0; i<10; i++) {
+
+        if(i == 6) {
+          // this will skip the current iteration
+          continue;
+        }
+
+        System.Console.WriteLine(i);
+      }
+    
+    }
+    
   }
 
 }
