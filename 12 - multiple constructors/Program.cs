@@ -5,9 +5,9 @@ using System;
 
 
 
-namespace UsingClasses {
+namespace MultipleConstructors {
 
-  class UsingClasses {
+  class MultipleConstructors {
     
     static void Main(string[] args) {
       Cat Sylvia = new Cat();

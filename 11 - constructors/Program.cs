@@ -5,9 +5,9 @@ using System;
 
 
 
-namespace UsingClasses {
+namespace Constructors {
 
-  class UsingClasses {
+  class Constructors {
     
     static void Main(string[] args) {
       

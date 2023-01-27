@@ -5,7 +5,7 @@ using System;
 
 
 
-namespace UsingClasses {
+namespace Constructors {
 
   // create Human class
   class Human {

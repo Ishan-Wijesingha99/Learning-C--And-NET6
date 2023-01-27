@@ -5,7 +5,7 @@ using System;
 
 
 
-namespace UsingClasses {
+namespace MultipleConstructors {
 
   class Cat {
 
