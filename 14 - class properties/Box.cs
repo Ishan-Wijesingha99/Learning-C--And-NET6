@@ -1,0 +1,10 @@
+// class properties
+
+
+
+using System;
+
+
+
+
+
