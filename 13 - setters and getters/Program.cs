@@ -5,9 +5,9 @@ using System;
 
 
 
-namespace Properties {
+namespace SettersAndGetters {
 
-  class Properties {
+  class SettersAndGetters {
     
     static void Main(string[] args) {
       Box box1 = new Box();

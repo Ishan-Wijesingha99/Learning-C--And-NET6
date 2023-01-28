@@ -1,12 +1,11 @@
-// class properties
-
+// setters and getters
 
 
 using System;
 
 
 
-namespace Properties {
+namespace SettersAndGetters {
 
   class Box {
 
