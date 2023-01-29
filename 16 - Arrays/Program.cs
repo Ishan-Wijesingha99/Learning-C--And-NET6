@@ -30,6 +30,7 @@ namespace Arrays {
 
 
 
+      System.Console.WriteLine("foreach loop section");
       // foreach loop
       int[] numbersArray = {12, 14, 53, 65, 7};   
 
@@ -51,6 +52,7 @@ namespace Arrays {
 
 
 
+      System.Console.WriteLine("multi-dimensional arrays section");
       // 2D arrays
       
       // creating 2D array
@@ -83,11 +85,12 @@ namespace Arrays {
         }
       };
 
+
+
+      System.Console.WriteLine("properties of multi-dimensional arrays");
       // access by using matrix2[depth, row, index]
       System.Console.WriteLine(matrix2[0, 2, 2]); // = 7
       System.Console.WriteLine(matrix2[1, 1, 0]); // = 9
-
-
 
       // access dimensions of an multi-demensional array
       System.Console.WriteLine(matrix1.Rank); // 2
@@ -100,6 +103,7 @@ namespace Arrays {
 
 
 
+      System.Console.WriteLine("foreach loop for multi-dimensional arrays section");
       // looping through multi-dimensional arrays
       // a foreach loop will loop through multi-dimensional arrays with no problem 
       // however, you cannot change the current iteration's entree using foreach loop, you can't say entree = 10;
@@ -109,6 +113,7 @@ namespace Arrays {
 
 
 
+      System.Console.WriteLine("nested forloops section");
       // another way to loop through multi-dimensional arrays that allows for more control is nested for-loop
 
       // loops through depth
@@ -128,6 +133,26 @@ namespace Arrays {
         }
 
       }
+
+
+
+      System.Console.WriteLine("jagged arrays section");
+      // jagged arrays (nested arrays)
+
+      // this will create an array that contains 3 arrays inside of it
+      int[][] jaggedArray1 = new int[][]
+      {
+        new int[] {3, 5, 7, 9},
+        new int[] {1, 2, 3},
+        new int[] {10, 9}
+      };
+
+      // this is how you access those values
+      System.Console.WriteLine(jaggedArray1[1][2]); // this will go to the second array, then index 2 of that array = 3
+      System.Console.WriteLine(jaggedArray1[0][3]); // this will go to the first array, then index 3 of that array = 9
+      System.Console.WriteLine(jaggedArray1[2][1]); // this will go to the third array, then index 1 of that array = 9
+
+
     }
   }
 
