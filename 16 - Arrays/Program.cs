@@ -152,7 +152,6 @@ namespace Arrays {
       System.Console.WriteLine(jaggedArray1[0][3]); // this will go to the first array, then index 3 of that array = 9
       System.Console.WriteLine(jaggedArray1[2][1]); // this will go to the third array, then index 1 of that array = 9
 
-
     }
   }
 
