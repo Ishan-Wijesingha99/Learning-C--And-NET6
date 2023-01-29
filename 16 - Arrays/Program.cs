@@ -43,12 +43,91 @@ namespace Arrays {
       // best way to access the index is to create a counter and increase it by 1 at the end of every iteration
       int loopCounter = 0;
       foreach(int entree in numbersArray) {
-        
+
         System.Console.WriteLine("index is {0}, element is {1}", loopCounter, entree);
 
         loopCounter++;
       }
 
+
+
+      // 2D arrays
+      
+      // creating 2D array
+      int[,] matrix1 =
+      {
+        {4, 4, 7}, // row 0
+        {6, 5, 6}, // row 1
+        {7, 10, 11} // row 2
+      };
+
+      // accessing values in 2D array
+      // use matrix1[row, index]
+      System.Console.WriteLine(matrix1[0,2]); // row 0, index 2
+      System.Console.WriteLine(matrix1[1,0]); // row 1, index 0
+
+
+
+      // creating 3D array
+      int[,,] matrix2 =
+      {
+        { // depth 0
+          {4, 8, 12}, // row 0
+          {3, 3, 2}, // row 1
+          {9, 10, 7} // row 2
+        },
+        { // depth 1
+          {5, 5, 2}, // row 0
+          {9, 9, 6}, // row 1
+          {2, 4, 4} // row 2
+        }
+      };
+
+      // access by using matrix2[depth, row, index]
+      System.Console.WriteLine(matrix2[0, 2, 2]); // = 7
+      System.Console.WriteLine(matrix2[1, 1, 0]); // = 9
+
+
+
+      // access dimensions of an multi-demensional array
+      System.Console.WriteLine(matrix1.Rank); // 2
+      System.Console.WriteLine(matrix2.Rank); // 3
+
+      // access rows, columns etc
+      System.Console.WriteLine(matrix2.GetLength(0)); // this returns the depth which is 2
+      System.Console.WriteLine(matrix2.GetLength(1)); // this returns the length which is 3 
+      System.Console.WriteLine(matrix2.GetLength(2)); // this returns the width which is 3
+
+
+
+      // looping through multi-dimensional arrays
+      // a foreach loop will loop through multi-dimensional arrays with no problem 
+      // however, you cannot change the current iteration's entree using foreach loop, you can't say entree = 10;
+      foreach (int entree in matrix1) {
+        System.Console.WriteLine(entree);
+      }
+
+
+
+      // another way to loop through multi-dimensional arrays that allows for more control is nested for-loop
+
+      // loops through depth
+      for(int i=0; i<matrix2.GetLength(0); i++) { 
+
+        // loops through length
+        for(int j=0; j<matrix2.GetLength(1); j++) {
+
+          // loops through width
+          for(int k=0; k<matrix2.GetLength(2); k++) {
+
+            // this is how you access the current entree
+            System.Console.WriteLine(matrix2[i,j,k]);
+
+          }
+
+        }
+
+      }
     }
   }
 
